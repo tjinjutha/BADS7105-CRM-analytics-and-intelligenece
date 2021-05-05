@@ -19,7 +19,7 @@ Choose k = 3
 
 
 4. Interpret result
-![Interpret](https://github.com/tjinjutha/BADS7105-CRM-analytics-and-intelligenece/blob/main/Homework%2006/eda_result.JPG "Interpret")
+![Interpret](https://github.com/tjinjutha/BADS7105-CRM-analytics-and-intelligenece/blob/main/Homework%2006/interprete.JPG "Interpret")
 
 
 
